@@ -34,4 +34,4 @@ That's all.
 
 
 
-And yeah - I'm 🇷🇺. Don't bully me for my knowledge in English, just only because I will not understand you. 
+And yeah - I'm 🇷🇺. Don't bully me for my low level of knowledge in English, just only because I will not understand you. 
