@@ -1,5 +1,5 @@
  Idk what is this.
- All what I can tell you is just what I want to learn the Programms language for make my own project. 
+ All what I can tell you is just what I want to learn the Programm languages for make my own project. 
  Currently I learning the C# for Unity. 
  But when I finished it, I would start learn the other main Programm languages for GameDev: 
   ——C++ for Unreal Engine (But only for 4 version of Engine, not for 5. Because my comp is very bad for UE5), 
